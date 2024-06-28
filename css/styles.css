@@ -85,6 +85,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+cursor: pointer;
 }
 
 .hero-order-btn:hover{
@@ -93,9 +94,7 @@ background-color: #404bbf;
 .hero-order-btn:focus{
 background-color: #404bbf;
 }
-.hero-order-btn:{
-cursor: pointer;
-}
+
 
 /*Components*/
 
@@ -137,7 +136,7 @@ color: #2e2f42
 }
 
 .team-list {
-background-color: #ffff ;
+background-color: #FFFFFF;
 
 }
 
