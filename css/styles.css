@@ -124,7 +124,7 @@ color: #434455;
 /*TEAM*/
 
 .team {
-   background-color: #f4f4fd;
+  
 }
 .team-title {
 text-transform: capitalize;
@@ -132,6 +132,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+background-color: #f4f4fd;
 color: #2e2f42
 }
 
