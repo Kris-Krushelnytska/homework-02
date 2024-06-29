@@ -135,10 +135,7 @@ text-align: center;
 color: #2e2f42
 }
 
-.team-list {
-background-color: #FFFFFF;
 
-}
 
 .team-item {
 }
@@ -166,6 +163,7 @@ color: #434455;
 /*PORTFOLIO*/
 
 .portfolio {
+   background-color: #FFFFFF;
 }
 
 .portfolio-title {
